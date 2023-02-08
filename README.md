@@ -18,6 +18,7 @@ A landing page responsive to mobile screen size. It's not fully responsive, but 
 - Semantic HTML5 markup
 - CSS3 custom properties
 - Flexbox
+- JavaScript
 
 ### Useful resources
 
