@@ -1,6 +1,6 @@
 # Landing Page - Matheus Battist
 
-This is a landing page created for InDecor, by Matheus Battist, on his Youtube channel.
+This is a landing page created for [InDecor](https://wiklyn.github.io/langing-page---matheus-battisti/), by Matheus Battist, on his Youtube channel.
 
 ## Table of contents
 
